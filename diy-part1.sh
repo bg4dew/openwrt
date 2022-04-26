@@ -78,6 +78,8 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #luci-app-adguardhome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
+luci-app-nps
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-nps package/luci-app-nps
 ##############################################################################################
 
 # NAS
